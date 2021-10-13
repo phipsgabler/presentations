@@ -4,3 +4,6 @@
 [submodule "algdesign-persistent-data-structures"]
 	path = algdesign-persistent-data-structures
 	url = https://github.com/phipsgabler/algdesign-persistent-data-structures
+[submodule "beyond_overdubbing"]
+	path = beyond_overdubbing
+	url = https://github.com/phipsgabler/beyond_overdubbing
