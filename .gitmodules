@@ -1,3 +1,6 @@
 [submodule "algdesign-plurality-points"]
 	path = algdesign-plurality-points
 	url = https://github.com/phipsgabler/algdesign-plurality-points
+[submodule "algdesign-persistent-data-structures"]
+	path = algdesign-persistent-data-structures
+	url = https://github.com/phipsgabler/algdesign-persistent-data-structures
