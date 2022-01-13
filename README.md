@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # Presentations & Posters
 
 This repository contains the (CS-related) presentations for some of the talks (as well as posters) I gave at work and during my studies.
@@ -47,3 +49,14 @@ A talk given at the Graz-Wien Speech Workshop 2021, summarizing my ideas about h
 ## [PhD Retreat 2021 Poster](./phd_retreat)
 
 Poster summarizing the above concepts, presented internally at the ISDS/Know-Center PhD retreat (still only a sketch of my ideas).
+
+# License
+
+Every presentation listed here is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by], as far as applicable (i.e., excluding logos by third parties etc.)
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
