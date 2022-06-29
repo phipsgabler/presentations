@@ -50,6 +50,10 @@ A talk given at the Graz-Wien Speech Workshop 2021, summarizing my ideas about h
 
 Poster summarizing the above concepts, presented internally at the ISDS/Know-Center PhD retreat (still only a sketch of my ideas).
 
+## [Deep leaning without math](./deep_learning)
+
+An introduction to deep learning given at the linguistics department of Graz University to a general audience.
+
 # License
 
 Every presentation listed here is licensed under a
