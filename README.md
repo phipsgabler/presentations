@@ -32,7 +32,7 @@ Included here as a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Subm
 
 ## [Designing Plots](./designing_plots)
 
-A talk about basic principles to design nice plots, with a very short introduction into the concepts of the Grammar of Graphics and some practical hints.  Given at the PhD seminar.
+A talk about basic principles to design nice plots, with a very short introduction into the concepts of the Grammar of Graphics and some practical hints.  Given at my PhD seminar.
 
 ## [Introduction to causality](./causality_intro)
 
@@ -53,6 +53,18 @@ Poster summarizing the above concepts, presented internally at the ISDS/Know-Cen
 ## [Deep leaning without math](./deep_learning)
 
 An introduction to deep learning given at the linguistics department of Graz University to a general audience.
+
+## [BUGS talks](./BUGS)
+
+Slides for the discussion sessions about BUGS, Turing.jl, and AbstractPPL.jl.
+
+## [Open Source as PhD](./os_as_phd)
+
+Talk for my PhD seminar about using and participating in open source projects as PhD student.
+
+## [Advanced Information Theory](./advanced_information_theory)
+
+Presentation for the Advanced Information Theory seminar at TU Graz about the paper [Learning with Succinct Common Representation Based on Wyner's Common Information](https://arxiv.org/abs/1905.10945).
 
 # License
 
