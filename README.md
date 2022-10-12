@@ -4,6 +4,10 @@
 
 This repository contains the (CS-related) presentations for some of the talks (as well as posters) I gave at work and during my studies.
 
+## [Bachelor's thesis final presentation](./bachelor-thesis-final)
+
+Final presentation for my bachelor's thesis, [https://github.com/phipsgabler/bachelor-thesis](https://github.com/phipsgabler/bachelor-thesis).
+
 ## [Plurality Points](https://github.com/phipsgabler/algdesign-plurality-points/)
 
 Talk given at the Algorithm Design Seminar about "Computing Plurality Points and Condorcet Points in Euclidean Space" (Wu et al., 2013).
@@ -22,11 +26,12 @@ Collection of ideas what I was gonna do during my master's thesis: background fr
 
 ## [Master's thesis final presentation](./master-thesis-final)
 
-The final presentation of the work above: background, description of the implementation of the computation graph extraction, and application for computation of Gibbs conditionals. 
+The final presentation of my master's thesis, [Automatic Graph Tracking in Dynamic Probabilistic Programs via Source
+Transformations](https://github.com/phipsgabler/master-thesis): background, description of the implementation of the computation graph extraction, and application for computation of Gibbs conditionals. 
 
 ## [Beyond Overdubbing](https://github.com/phipsgabler/beyond_overdubbing)
 
-My talk at JuliaCon 2020.
+My talk at JuliaCon 2020, about the kinds of source transformations I was using in the implementation of [IRTracker.jl](https://github.com/TuringLang/IRTracker.jl) for my master's thesis, and some speculative outlook.
 
 Included here as a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
