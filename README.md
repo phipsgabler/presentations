@@ -6,7 +6,7 @@ This repository contains the (CS-related) presentations for some of the talks (a
 
 ## [Bachelor's thesis final presentation](./bachelor-thesis-final)
 
-Final presentation for my bachelor's thesis, [https://github.com/phipsgabler/bachelor-thesis](https://github.com/phipsgabler/bachelor-thesis).
+Final presentation for my bachelor's thesis, [Designing Embedded Domain-Specific Languages in Scala](https://github.com/phipsgabler/bachelor-thesis).
 
 ## [Plurality Points](https://github.com/phipsgabler/algdesign-plurality-points/)
 
