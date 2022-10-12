@@ -51,7 +51,7 @@ Very early draft of my ideas for conversational language models -- what later ev
 
 A talk given at the Graz-Wien Speech Workshop 2021, summarizing my ideas about how to structure models for conversational speech data.
 
-## [PhD Retreat 2021 Poster](./phd_retreat)
+## [PhD Retreat 2021 Poster](./phd_retreat_2021)
 
 Poster summarizing the above concepts, presented internally at the ISDS/Know-Center PhD retreat (still only a sketch of my ideas).
 
@@ -66,6 +66,10 @@ Slides for the discussion sessions about BUGS, Turing.jl, and AbstractPPL.jl.
 ## [Open Source as PhD](./os_as_phd)
 
 Talk for my PhD seminar about using and participating in open source projects as PhD student.
+
+## [PhD Retreat 2022 Poster](./phd_retreat_2022)
+
+Poster summarizing the presenting my current research ideas internally at the ISDS/Know-Center PhD retreat.
 
 ## [Advanced Information Theory](./advanced_information_theory)
 
