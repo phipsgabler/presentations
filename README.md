@@ -24,6 +24,10 @@ Included here as a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Subm
 
 Collection of ideas what I was gonna do during my master's thesis: background from automatic differentiation, SSA IR transformations, computation graph extraction.
 
+## [AABI Symposion 2019 poster](./aabi_2019)
+
+[Graph Tracking in Dynamic Probabilistic Programs via Source Transformations](https://openreview.net/forum?id=r1eAFknEKr), with Martin Trapp, Hong Ge, and Franz Pernkopf.
+
 ## [Master's thesis final presentation](./master-thesis-final)
 
 The final presentation of my master's thesis, [Automatic Graph Tracking in Dynamic Probabilistic Programs via Source
