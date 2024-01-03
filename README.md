@@ -2,7 +2,7 @@
 
 # Presentations & Posters
 
-This repository contains the (CS-related) presentations for some of the talks (as well as posters) I gave at work and during my studies.
+This repository contains the presentations (on CS and linguistics) for some of the talks (as well as posters) I gave at work and during my studies.
 
 ## [Bachelor's thesis final presentation](./bachelor-thesis-final)
 
@@ -61,7 +61,7 @@ Poster summarizing the above concepts, presented internally at the ISDS/Know-Cen
 
 ## [Deep leaning without math](./deep_learning)
 
-An introduction to deep learning given at the linguistics department of Graz University to a general audience.
+An introduction to deep learning given at the linguistics department of the University of Graz to a general audience.
 
 ## [BUGS talks](./BUGS)
 
@@ -78,6 +78,14 @@ Poster summarizing the presenting my current research ideas internally at the IS
 ## [Advanced Information Theory](./advanced_information_theory)
 
 Presentation for the Advanced Information Theory seminar at TU Graz about the paper [Learning with Succinct Common Representation Based on Wyner's Common Information](https://arxiv.org/abs/1905.10945).
+
+## [Internal bilingualism (German)](./spätere_sprachentwickling)
+
+Presentation given at a seminar on later language acquisition (University of Graz, linguistics department).  Topic: internal bilingualism and the interaction between the acquisition of standard and home varieties of one language.
+
+## [Contact between Moroccan Arabic and Berber languages (German)](./soziolinguistik)
+
+Presentation given at a seminar on sociolinguistics (University of Graz, linguistics department) on the history of Moroccan Arabic, its contact with Berber languages, and the sociolinguistic situation of Morocco today.
 
 # License
 
